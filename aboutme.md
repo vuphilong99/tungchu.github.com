@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Let's rug
 subtitle: Rug me if you can
 ---
 
