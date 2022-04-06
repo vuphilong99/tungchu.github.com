@@ -15,6 +15,7 @@ author: PhiLong
 
 navbar-links:
   About Me: "aboutme"
+  New Post: "newpost"
   Rugged Projects:
     - Drapia: "https://drapia.io"
     - Widiland: "http://widiland.com/"
